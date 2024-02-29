@@ -1,2 +1,2 @@
 # random-number
-a random number generator between 0 - 1000
+A simple random number generator for anyone who wants to generate a number!
